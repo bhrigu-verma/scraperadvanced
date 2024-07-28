@@ -1,6 +1,6 @@
 import os
 from psycopg2 import sql
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoupfdb
 from urllib.parse import urljoin
 import csv
 from dotenv import load_dotenv
