@@ -2,7 +2,7 @@ import os
 from psycopg2 import sql
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
-import csv
+import csvff
 from dotenv import load_dotenv
 import logging 
 import asyncio
