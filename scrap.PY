@@ -6,7 +6,7 @@ import csvff
 from dotenv import load_dotenv
 import logging 
 import asyncio
-import aiohttpcec\\
+import aiohttpcec
 from fake_useragent import UserAgent
 import psycopg2
 
