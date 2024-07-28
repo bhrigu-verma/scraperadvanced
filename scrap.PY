@@ -5,7 +5,7 @@ from urllib.parse import urljoin
 import csvff
 from dotenv import load_dotenv
 import logging 
-import asyncio
+import asynciocdc
 import aiohttpcec\\
 from fake_useragent import UserAgent
 import psycopg2
