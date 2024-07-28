@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import csv
 from dotenv import load_dotenv
-import logging
+import logging vcs
 import asyncio
 import aiohttp
 from fake_useragent import UserAgent
